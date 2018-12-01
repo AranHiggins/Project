@@ -1,0 +1,89 @@
+.example-card {
+    max-width: 200px;
+  }
+  .example-card2 {
+    max-width: 200px;
+    position: absolute;
+    right: 1400px;
+    top: 129px;
+
+    
+  }
+
+  .example-card3 {
+    max-width: 200px;
+    position: absolute;
+    right: 1145px;
+    top: 129px;
+
+    
+  }
+  .example-card4 {
+    max-width: 200px;
+    position: absolute;
+    right: 890px;
+    top: 129px;
+
+    
+  }
+
+  .example-card5 {
+    max-width: 200px;
+    position: absolute;
+    right: 635px;
+    top: 129px;
+
+    
+  }
+  
+  .example-card6 {
+    max-width: 200px;
+    position: absolute;
+    right: 380px;
+    top: 129px;
+
+    
+  }
+  .example-card7 {
+    max-width: 200px;
+    position: absolute;
+    right: 125px;
+    top: 129px;
+
+    
+  }
+  
+  
+  .example-header-image {
+    background-image: url('https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg');
+    background-size: cover;
+  }
+  .example2-header-image {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-JZS7aPLFPNd5Muxwx-sq2vJ2KIpKLiM1Kdvx0sX3xqgMoLkw');
+    background-size: cover;
+  }
+
+  .example3-header-image {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._SY550_.jpg');
+    background-size: cover;
+  }
+
+  .example4-header-image {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/51MtComdS4L.jpg');
+    background-size: cover;
+  }
+
+  .example5-header-image {
+    background-image: url('https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg');
+    background-size: cover;
+  }
+  .example6-header-image {
+    background-image: url('https://imgc.allpostersimages.com/img/print/posters/pulp-fiction-cover-with-uma-thurman-movie-poster_a-G-1849047-0.jpg');
+    background-size: cover;
+  }
+  .example7-header-image {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/51a3Lo80qsL.jpg');
+    background-size: cover;
+  }
+ 
+ 
